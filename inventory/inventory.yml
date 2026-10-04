@@ -48,5 +48,6 @@ KVM:
     vm-kvm-rocky-10:
     vm-kvm-debian-11:
     vm-kvm-debian-12:
+    vm-kvm-debian-13:
     vm-kvm-centos-10:
 ...
